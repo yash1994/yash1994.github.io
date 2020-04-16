@@ -2,3 +2,24 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+hr.black_sep {
+    border-top: 2px solid #727272;
+}
+
+.social-media-list {
+    padding-left: 0px;
+    list-style: none;
+    margin-left: 0;
+    
+    img {
+        width: 26px;
+        height: 26px;
+        vertical-align: middle;
+        padding-right: 10px;
+    }
+
+    li {
+        padding-top: 10px;
+    }
+}

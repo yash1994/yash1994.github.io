@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Cognitive Reveries 
+logo: false
+description: Hi, welcome to cognitive reveries, where we will be going through some less covered data science technical concepts as well as philosophical concepts. Hope it will help you to find the center of the maze.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+github_username: jph00
+twitter_username: PatadiaYash
